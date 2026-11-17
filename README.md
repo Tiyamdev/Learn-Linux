@@ -2,93 +2,68 @@ KERNEX
 
 Understand. Engineer. Evolve.
 
-A Modern Journey Into the Linux Ecosystem.
+<p align="center">
+  **A Modern Journey Into the Linux Ecosystem**
+</p>KERNEX is a modern, bilingual Linux learning experience built to make exploring the Linux ecosystem more accessible, engaging, and intuitive.
 
-KERNEX is a bilingual Linux learning experience designed to make the world of Linux more accessible, structured, and engaging.
-
-Explore the foundations of Linux, discover its ecosystem, and build a deeper understanding of the technologies that power modern computing.
+Discover Linux, explore its technologies, and expand your understanding of the open-source world through a carefully designed digital experience.
 
 ---
 
-✦ Overview
+✦ Core Features
 
-KERNEX brings together a focused learning experience with a modern interface, thoughtful interactions, and a distinctive visual identity.
+- 🌍 Bilingual Interface — English and Persian support.
+- ↔️ RTL / LTR — Full right-to-left and left-to-right layout support.
+- 🌓 Dual Themes — Elegant light and dark modes.
+- 📱 Responsive Design — Adapted for desktop and mobile screens.
+- ✨ Smooth Interactions — Refined animations and transitions.
+- 🐧 Linux-Focused Content — Explore the Linux ecosystem.
+- 🔐 Security Configuration — Content Security Policy and server security headers.
 
-Explore. Learn. Understand.
-
-⚡ Features
-
-- Bilingual Experience — English and Persian support.
-- RTL / LTR Support — Full directional layout adaptation.
-- Adaptive Themes — Light and dark modes.
-- Modern Interface — Minimal, refined, and technology-inspired design.
-- Interactive Experience — Smooth transitions and polished animations.
-- Responsive Design — Optimized for desktop and mobile devices.
-- Security-Oriented Configuration — Content Security Policy and additional HTTP security headers.
-
-🛠️ Technology
+🛠️ Built With
 
 - HTML5
 - CSS3
-- Vanilla JavaScript
+- JavaScript
 - Google Fonts
 
-🚀 Getting Started
+🚀 Live Experience
 
-No complex installation or build process is required.
+Explore KERNEX online:
 
-1. Clone the repository:
-   
-   git clone https://github.com/Tiyamdev/KERNEX.git
+https://tiyamdev.github.io/Learn-Linux/
 
-2. Navigate to the project directory:
-   
-   cd KERNEX
+📦 Deployment Support
 
-3. Open "index.html" in your browser.
+KERNEX includes configuration files for:
 
-📁 Project Structure
-
-KERNEX/
-├── index.html
-├── _headers
-├── vercel.json
-├── .htaccess
-├── nginx.conf.snippet
-├── robots.txt
-└── README.md
-
-🌐 Deployment
-
-KERNEX includes configuration files for multiple hosting environments:
-
+- GitHub Pages
 - Vercel
 - Netlify
 - Cloudflare Pages
 - Apache
 - Nginx
 
-For production deployment, configure the appropriate server headers and enable HTTPS.
+🔒 Security
 
-🔐 Security
+The project includes security-focused configurations such as Content Security Policy and HTTP security headers.
 
-The project includes security-focused HTTP headers and a restrictive Content Security Policy.
+For production deployments, use HTTPS and configure the appropriate headers on your hosting server.
 
-These measures help reduce certain browser-based security risks. They do not guarantee complete protection or hide client-side source code.
+Note: Client-side source code cannot be completely hidden from website visitors.
 
-🎯 Vision
+🎯 Our Vision
 
-KERNEX is built around one idea:
+Technology becomes more powerful when knowledge becomes accessible.
 
-Understanding technology is the first step toward mastering it.
-
-A dedicated space for exploring Linux, expanding technical knowledge, and developing a deeper connection with open-source technology.
+KERNEX aims to create a structured and engaging environment for discovering Linux, understanding open-source technologies, and growing technical knowledge.
 
 ---
 
 <p align="center">
-  <strong>KERNEX</strong><br>
+  **KERNEX**
+  <br>
   Understand. Engineer. Evolve.
   <br><br>
-  Built with curiosity and a passion for technology.
+  Crafted with curiosity. Driven by technology.
 </p>
